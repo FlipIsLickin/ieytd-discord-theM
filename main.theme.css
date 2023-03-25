@@ -6,8 +6,8 @@
 */
 @import url("https://fonts.googleapis.com/css2?family=PT+Mono&family=Mukta&display=swap");
 :root {
-  --color-one: #cac3d9;
-  --color-two: #2b3945;
+  --color-one: #2b3945;
+  --color-two: #cac3d9;
   --color-three: #222129;
   --dark-elevation-low: none;
   --dark-elevation-high: none;
